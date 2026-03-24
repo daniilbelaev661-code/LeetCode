@@ -1,0 +1,17 @@
+# Visual Studio временные файлы
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+
+# Каталоги сборки
+Debug/
+Release/
+x64/
+Win32/
+
+# Файлы отладки
+*.pdb
+*.ilk
+*.exe
+*.obj
