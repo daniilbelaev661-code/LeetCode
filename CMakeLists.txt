@@ -4,4 +4,5 @@ project(LeetCode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(LeetCode
-        14.Longest_Common_Prefix.cpp)
+        14.Longest_Common_Prefix.cpp
+        26.Remove_Duplicates_from_Sorted_Array.cpp)

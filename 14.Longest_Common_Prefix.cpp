@@ -21,8 +21,8 @@ string foka(vector<string>& strs)
     return ans;
 }
 
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector<string> arr = { "dag","dacecar","dar" };
-    cout << foka(arr);
-}
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector<string> arr = { "dag","dacecar","dar" };
+//     cout << foka(arr);
+// }
