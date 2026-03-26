@@ -17,10 +17,10 @@ int searchInsert(vector<int>& nums, int target)
     return target > nums[index] ? index+1 : index;
 }
 
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector <int> nums={1,3,5,6};
-    cout << searchInsert(nums, 7) << endl;
-    for (auto i : nums) cout << i << "\t";
-
-}
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector <int> nums={1,3,5,6};
+//     cout << searchInsert(nums, 7) << endl;
+//     for (auto i : nums) cout << i << "\t";
+//
+// }
