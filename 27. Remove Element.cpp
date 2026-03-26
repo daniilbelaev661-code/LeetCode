@@ -18,11 +18,11 @@ int removeElement(vector<int>&nums, int val)
     return index;
 }
 
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector <int> nums={4,5};
-    cout << removeElement(nums, 4) << endl;
-    for (int i=0; i<nums.size(); i++) {
-        cout << nums[i] << "\t";
-    }
-}
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector <int> nums={4,5};
+//     cout << removeElement(nums, 4) << endl;
+//     for (int i=0; i<nums.size(); i++) {
+//         cout << nums[i] << "\t";
+//     }
+// }
