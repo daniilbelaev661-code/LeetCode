@@ -24,12 +24,12 @@ vector<int> plusOne(vector<int>& digits)
     }
     return digits;
 }
-// 9 9 9 9 9
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector<int> nums ={9,9,9};
-    vector<int> digits = plusOne(nums);
-    for (int i =0;i<digits.size();i++) {
-        cout<<digits[i]<<"\t";
-    }
-}
+
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector<int> nums ={9,9,9};
+//     vector<int> digits = plusOne(nums);
+//     for (int i =0;i<digits.size();i++) {
+//         cout<<digits[i]<<"\t";
+//     }
+// }
