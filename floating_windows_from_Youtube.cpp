@@ -22,8 +22,8 @@ int multiplicationNums(vector<int>& nums, const int k)
     return maxMult;
 }
 
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector<int> nums ={1,1,1};
-    cout << multiplicationNums(nums,3) << endl;
-}
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector<int> nums ={1,1,1};
+//     cout << multiplicationNums(nums,3) << endl;
+// }

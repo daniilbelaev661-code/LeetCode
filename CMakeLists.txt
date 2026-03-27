@@ -9,4 +9,6 @@ add_executable(LeetCode
         "27. Remove Element.cpp"
         35.Search_Insert_Position.cpp
         66._Plus_One.cpp
-        floating_windows_from_Youtube.cpp)
+        floating_windows_from_Youtube.cpp
+        Green_flags_from_Youtube.cpp
+        Green_flag_from_Youtube_2.cpp)
