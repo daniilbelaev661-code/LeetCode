@@ -27,12 +27,12 @@ vector<string> ConsecutiveSequences(vector<string>& str) {
     return res;
 }
 
-int main() {
-    setlocale(LC_ALL, "ru");
-    vector<string> str ={"x","x","y","z","z","z"};
-    const vector<string> res=ConsecutiveSequences(str);
-    for (const auto & re : res) {
-        cout<<re<<"\t";
-    }
-
-}
+// int main() {
+//     setlocale(LC_ALL, "ru");
+//     vector<string> str ={"x","x","y","z","z","z"};
+//     const vector<string> res=ConsecutiveSequences(str);
+//     for (const auto & re : res) {
+//         cout<<re<<"\t";
+//     }
+//
+// }

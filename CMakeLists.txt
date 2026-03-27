@@ -11,4 +11,7 @@ add_executable(LeetCode
         66._Plus_One.cpp
         floating_windows_from_Youtube.cpp
         Green_flags_from_Youtube.cpp
-        Green_flag_from_Youtube_2.cpp)
+        Green_flag_from_Youtube_2.cpp
+        "88. Merge Sorted Array.cpp"
+        283._Move_Zeroes.cpp
+)
